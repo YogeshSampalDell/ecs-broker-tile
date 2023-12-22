@@ -1,12 +1,6 @@
+[Home](/index.md) | [Installing](/installing.md) | [Using](/using.md) | [Release Notes](/release-notes.md) | [Troubleshooting](/troubleshooting.md)
+
 This documentation describes ECS Service Broker for VMware Tanzu.
-
-Menu:
-
-1. [Home](/index.md)
-2. [Installing](/installing.md)
-3. [Using](/using.md)
-4. [Release Notes](/release-notes.md)
-5. [Troubleshooting](/troubleshooting.md)
 
 ## <a id="overview"></a> Overview
 
