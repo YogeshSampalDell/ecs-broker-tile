@@ -1,4 +1,4 @@
-[Home](/index.md) | [Installing](/installing.md) | [Using](/using.md) | [Release Notes](/release-notes.md) | [Troubleshooting](/troubleshooting.md)
+[Home](/docs/index.md) | [Installing](/docs/installing.md) | [Using](/docs/usage.md) | [Release Notes](/docs/release-notes.md) | [Troubleshooting](/docs/troubleshooting.md)
 
 This document describes troubleshooting steps and common issues when running the ECS Service Broker for VMware Tanzu.
 
