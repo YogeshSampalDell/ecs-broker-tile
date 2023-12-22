@@ -30,48 +30,16 @@ With ECS Service Broker for VMware Tanzu, you can do the following:
 
 ## <a id="snapshot"></a>Product Snapshot
 
-
-<table class="nice">
-    <th>Element</th>
-    <th>Details</th>
-    <tr>
-        <td>Tile Version</td>
-        <td>2.3.0</td>
-    </tr>
-    <tr>
-        <td>Release date</td>
-        <td>July 26, 2022</td>
-    </tr>
-    <tr>
-        <td>Software component version</td>
-        <td>2.3.0</td>
-    </tr>
-    <tr>
-        <td>Compatible Ops Manager version(s)</td>
-        <td>v2.7.x, v2.8.x, v2.9.x, v2.10.x</td>
-    </tr>
-    <tr>
-        <td>Compatible Tanzu Application Service version(s)</td>
-        <td>v2.7.x, v2.8.x, v2.9.x, v2.10.x, v2.11.x, v2.12.x</td>
-    </tr>
-    <tr>
-        <td>BOSH stemcell version</td>
-        <td>Ubuntu Xenial 621</td>
-    </tr>
-    <tr>
-        <td>IaaS support</td>
-        <td>AWS, Azure, OpenStack, and vSphere</td>
-    </tr>
-    <tr>
-        <td>IPsec support?</td>
-        <td>No</td>
-    </tr>
-</table>
-
 | Element      | Details       |
 |:-------------|:--------------|
 | Tile Version | 2.3.0         |
 | Release Date | July 26, 2022 |
+| Software component version | 2.3.0 |
+| Compatible Ops Manager version(s) | v2.7.x, v2.8.x, v2.9.x, v2.10.x |
+| Compatible Tanzu Application Service version(s) | v2.7.x, v2.8.x, v2.9.x, v2.10.x, v2.11.x, v2.12.x |
+| BOSH stemcell version | Ubuntu Xenial 621 |
+| IaaS support | AWS, Azure, OpenStack, and vSphere |
+| IPsec support? | No |
 
 ## <a id="reqs"></a> Requirements
 
