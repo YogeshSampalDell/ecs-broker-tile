@@ -30,16 +30,16 @@ With ECS Service Broker for VMware Tanzu, you can do the following:
 
 ## <a id="snapshot"></a>Product Snapshot
 
-| Element      | Details                                           |
-|:-------------|:--------------------------------------------------|
-| Tile Version | 2.3.1                                             |
-| Release Date | April 11, 2023                                    |
-| Software component version | 2.3.1                                             |
-| Compatible Ops Manager version(s) | v2.7.x, v2.8.x, v2.9.x, v2.10.x                   |
-| Compatible Tanzu Application Service version(s) | v2.7.x, v2.8.x, v2.9.x, v2.10.x, v2.11.x, v2.12.x |
-| BOSH stemcell version | Ubuntu Xenial 621                                 |
-| IaaS support | AWS, Azure, OpenStack, and vSphere                |
-| IPsec support? | No                                                |
+| Element      | Details                                                                      |
+|:-------------|:-----------------------------------------------------------------------------|
+| Tile Version | 2.3.1                                                                        |
+| Release Date | April 11, 2023                                                               |
+| Software component version | 2.3.1                                                                        |
+| Compatible Ops Manager version(s) | v3.0.x, v2.10.x, v2.9.x, v2.8.x or v2.7.x                                    |
+| Compatible Tanzu Application Service version(s) | v4.0.x, v3.0.x, v2.13.x, v2.12.x, v2.11.x, v2.10.x, v2.9.x, v2.8.x or v2.7.x |
+| BOSH stemcell version | Ubuntu Xenial 621                                                            |
+| IaaS support | AWS, Azure, OpenStack, and vSphere                                           |
+| IPsec support? | No                                                                           |
 
 ## <a id="reqs"></a> Requirements
 
