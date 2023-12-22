@@ -1,4 +1,4 @@
-[Home](/docs/index.md) | [Installing](/docs/installing.md) | [Using](/docs/usage.md) | [Release Notes](/docs/release-notes.md) | [Troubleshooting](/docs/troubleshooting.md)
+[Home](index.md) | [Installing](installing.md) | [Using](usage.md) | [Release Notes](release-notes.md) | [Troubleshooting](troubleshooting.md)
 
 This topic describes how to install and configure ECS Service Broker for VMware Tanzu.
 

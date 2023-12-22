@@ -1,4 +1,4 @@
-[Home](/docs/index.md) | [Installing](/docs/installing.md) | [Using](/docs/usage.md) | [Release Notes](/docs/release-notes.md) | [Troubleshooting](/docs/troubleshooting.md)
+[Home](index.md) | [Installing](installing.md) | [Using](usage.md) | [Release Notes](release-notes.md) | [Troubleshooting](troubleshooting.md)
 
 ## <a id="ver-2-3-1"></a> v2.3.1
 
