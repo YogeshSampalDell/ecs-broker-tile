@@ -1,5 +1,15 @@
 [Home](index.md) | [Installing](installing.md) | [Using](usage.md) | [Release Notes](release-notes.md) | [Troubleshooting](troubleshooting.md)
 
+## <a id="ver-2-3-2"></a> v2.3.2
+
+**Release Date:** February 23, 2024
+
+In this release:
+
+* Bugfixes
+  - Relax verification for remote connection creation
+* Upgraded dependencies to fix CVEs
+
 ## <a id="ver-2-3-1"></a> v2.3.1
 
 **Release Date:** April 7, 2023
